@@ -1,12 +1,44 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6BDDFA&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Welcome+to+K-Dense+%F0%9F%A7%AC;AI+Co-Scientist+%26+Engineer;Accelerating+Scientific+Discovery">
+  <img alt="K-Dense" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0969DA&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Welcome+to+K-Dense+%F0%9F%A7%AC;AI+Co-Scientist+%26+Engineer;Accelerating+Scientific+Discovery">
+</picture>
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+**Building the future of AI-powered scientific research**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[🚀 Get Started](https://app.k-dense.ai)
+
+</div>
+
+---
+
+## 🧬 About K-Dense
+
+We're building **AI co-scientists and engineers** that accelerate discovery and development. Our fully end-to-end platform combines the best of our open source tools into a powerful multi-agent system—no setup required.
+
+## 🌐 K-Dense Web
+
+Our flagship product integrates all our open source tools into a cohesive, hosted platform:
+
+- ✅ **Fully end-to-end** — From hypothesis to publication
+- ✅ **Multi-agent system** — Specialized AI agents working together  
+- ✅ **Zero setup** — Start immediately in your browser
+- ✅ **Free to start** — No credit card required
+
+<div align="center">
+
+### 👉 [**Try K-Dense Web for Free →**](https://app.k-dense.ai)
+
+</div>
+
+---
+
+<div align="center">
+  
+**Built with ❤️ for the scientific community**
+
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/k_dense_ai)](https://x.com/k_dense_ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/k-dense-inc)
+
+</div>

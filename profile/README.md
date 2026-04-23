@@ -24,11 +24,10 @@ Our flagship product integrates all our open source tools into a cohesive, hoste
 - ✅ **Fully end-to-end** — From hypothesis to publication
 - ✅ **Multi-agent system** — Specialized AI agents working together  
 - ✅ **Zero setup** — Start immediately in your browser
-- ✅ **Free to start** — No credit card required
 
 <div align="center">
 
-### 👉 [**Try K-Dense Web for Free →**](https://www.k-dense.ai)
+### 👉 [**Try K-Dense Web →**](https://www.k-dense.ai)
 
 </div>
 

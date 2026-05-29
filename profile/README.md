@@ -38,7 +38,4 @@ Our flagship product integrates all our open source tools into a cohesive, hoste
   
 **Built with ❤️ for the scientific community**
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/k_dense_ai)](https://x.com/k_dense_ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/k-dense-inc)
-
 </div>

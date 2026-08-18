@@ -34,6 +34,26 @@ Our flagship product integrates all our open source tools into a cohesive, hoste
 
 ---
 
+## 🎥 Watch and learn
+
+New to K-Dense? Start with these walkthroughs:
+
+| Video | What it covers |
+|-------|----------------|
+| [Getting Started with Scientific Agent Skills](https://youtu.be/ZxbnDaD_FVg) | Turning any AI agent into a research assistant with our skills library |
+| [Getting Started with K-Dense Web](https://youtu.be/q_qIeqgYpP8) | A full tour of the hosted platform |
+| [Get started with K-Dense Web in 15 minutes](https://youtu.be/_5Lu2ardOeg) | The short version — up and running fast |
+| [The Future of Research is Open: Introducing K-Dense BYOK](https://youtu.be/wsG3yVV4P5Q) | The free, open-source co-scientist that runs on your desktop |
+| [Skills 101: Build Your Own Scientific Agent Skill](https://youtu.be/lVZbHiwzMEg) | Writing and packaging your own skill |
+
+<div align="center">
+
+### 👉 [**Subscribe on YouTube →**](https://www.youtube.com/@K-Dense-Inc)
+
+</div>
+
+---
+
 <div align="center">
   
 **Built with ❤️ for the scientific community**
